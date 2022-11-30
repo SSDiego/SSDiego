@@ -13,3 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+Alguns projetos:
+
+https://github.com/SSDiego/text_analysis
+
+https://github.com/SSDiego/mini_analytics
